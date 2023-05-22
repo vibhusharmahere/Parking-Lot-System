@@ -27,7 +27,7 @@ Hello everyone, in this project, we will be designing a parking lot object orien
 * Large  
 * Motorcycle  
     
-Vehicle: Vehicles will be parked in the parking spots. Our system will support different types of vehicles  
+3. Vehicle: Vehicles will be parked in the parking spots. Our system will support different types of vehicles  
 * Car,  
 * Truck,  
 * Motorcycle.
