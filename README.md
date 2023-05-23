@@ -31,3 +31,18 @@ Hello everyone, in this project, we will be designing a parking lot object orien
 * Car,  
 * Truck,  
 * Motorcycle.
+
+## When to use Enums when to use Class
+
+When you need a predefined list of values which do represent some kind of numeric or textual data, you should use an enum. For instance, in a chess game you could represent the different types of pieces as an enum:  
+  
+enum ChessPiece {  
+    PAWN,  
+    ROOK,  
+    KNIGHT,  
+    BISHOP,  
+    QUEEN,  
+    KING;  
+}  
+
+Enums Are Classes Too
