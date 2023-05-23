@@ -46,3 +46,9 @@ enum ChessPiece {
 }  
 
 Enums Are Classes Too
+
+
+References
+
+"Parking Lot System Design Interview Question and Answer in Java| Object Oriented Design| Code Decode." YouTube, uploaded by Code Decode, 16 Nov 2021, https://youtu.be/P6WaVsP9cqs
+
